@@ -29,3 +29,6 @@ $ git remote -v
 > origin  https://github.com/OWNER/REPOSITORY.git (fetch)
 > origin  https://github.com/OWNER/REPOSITORY.git (push)
 ```
+
+## References
+https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories
